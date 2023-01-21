@@ -12,4 +12,4 @@ java Pong
 ```
 
 ### Screenshot
-[Screenshot of Pong](Pong.png)
+[Screenshot of Pong](https://github.com/TheEntropyShard/Pong/blob/master/Pong.png?raw=true)
