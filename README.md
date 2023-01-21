@@ -10,3 +10,6 @@ javac Pong.java
 ```shell
 java Pong
 ```
+
+### Screenshot
+[Screenshot of Pong](Pong.png)
